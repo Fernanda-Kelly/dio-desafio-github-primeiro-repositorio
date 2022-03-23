@@ -1,0 +1,8 @@
+Pensamento Computacional ?
+
+Formulação e resolução de problemas, possui quatro pilares: DECOMPOSIÇÃO, RECONHECIMENTO DE PADRÕES, ABSTRAÇÃO E DESIGN DE ALGORITMOS.
+
+DECOMPOSIÇÃO -> Dividir um problema complexo em subproblemas.
+RECONHECIMENTO DE PADRÕES -> Identificar padrões ou tendências.
+ABSTRAÇÃO -> Extrapolar o conceito do problema para uma forma generalista.
+DESIGN DE ALGORITMOS -> Definir passo a passo a solução do problema.
