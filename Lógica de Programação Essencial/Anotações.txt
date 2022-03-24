@@ -1,0 +1,17 @@
+O que é lógica? Coerência de raciocínio de ideias.
+
+O que é lógica de programação? Apenas contextualizar a lógica na programação de computadores.
+
+Pseudocódigo -> É uma forma genérica de escrever um algoritmo, utilizando
+uma linguagem simples.
+
+Fluxograma -> É uma ferramenta utilizada para representar graficamente o
+algoritmo.
+
+Variáveis -> Na programação, uma variável é um objeto (uma posição,
+frequentemente localizada na memória) capaz de reter e representar um valor 
+ou expressão.
+
+Constante -> São valores imutáveis e não são alterados durante a vida útil
+do programa.
+
