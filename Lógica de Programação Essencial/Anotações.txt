@@ -15,3 +15,33 @@ ou expressão.
 Constante -> São valores imutáveis e não são alterados durante a vida útil
 do programa.
 
+_____________________________________________________________________________________________________________
+
+O que é linguagem de programação? Sua função é servir de um meio de comunicação
+entre computadores e humanos.
+
+Linguagens:
+
+-> ALTO NÍVEL = Cuja sintaxe se aproxima mais da nossa linguagem e se distanciam
+mais da linguagem da máquina. 
+
+Ex: C, PHP, JS, C#, C++, PYTHON e etc. 
+
+-> BAIXO NÍVEL = É aquela que se aproxima mais da longuagem da máquina, precisando 
+ter conhecimento de arquitetura do computador.
+
+Ex: Assembly.
+
+-> COMPILADAS = É uma linguagem em que o código fonte é executado diretamente pelo
+Sistema Operacional ou pelo processador, após ser traduzido por meio de um processo 
+chamado compilação.
+
+Ex: C#, VB, DELPH, C++.
+
+-> INTERPRETADAS = É uma linguagem em que o código fonte é executado por um programa
+de computador chamado interpretador que em seguida é executado pelo Sistema Operacional
+ou pelo processador.
+
+Ex: JS, PHP, PYTHON.  
+
+
